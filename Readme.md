@@ -1,5 +1,5 @@
 
-# SupportOS – Enterprise Multi-Agent AI Customer Support Platform
+#  Enterprise Multi-Agent AI Customer Support Platform
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688)
@@ -7,7 +7,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-SupportOS is a full-stack AI-powered customer support platform that combines ticket management, conversational AI, Retrieval-Augmented Generation (RAG), and role-based administration. Customers can create tickets and chat with an AI assistant, while administrators manage users, tickets, analytics, and the knowledge base.
+AI-Customer Agent is a full-stack AI-powered customer support platform that combines ticket management, conversational AI, Retrieval-Augmented Generation (RAG), and role-based administration. Customers can create tickets and chat with an AI assistant, while administrators manage users, tickets, analytics, and the knowledge base.
 
 ---
 
